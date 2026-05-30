@@ -46,7 +46,7 @@ This project is a custom-designed printed circuit board (PCB) based on the ESP32
  
 ## Author Name
  
-|MARIMAR|CABATE|
+|RONJEC|BARNUEVO|
 |------|--------|
  
  
